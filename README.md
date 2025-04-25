@@ -2,6 +2,13 @@
 
 This repo serves as a central directory for documentation related to the DT-Interoperability project at JPL.
 
+## FAQ
+
+#### What is the Spatial Web? What is HSML?
+- "The Spatial Web" is synonymous with "Web 3.0," believed to be the next revolution in how the worldwide web works.
+  - test
+- In the same way HTML was created by scientists in the 1980s to standardize how web servers display content to users,
+ 
 ## HSML API
 ##### *(Credit: Alicia Sanjurjo-Barrio)*
 ### Repo: https://github.com/Digital-Twin-Interoperability/hsml_schema
