@@ -6,8 +6,21 @@ This repo serves as a central directory for documentation related to the DT-Inte
 
 #### What is the Spatial Web? What is HSML?
 - "The Spatial Web" is synonymous with "Web 3.0," believed to be the next revolution in how the worldwide web works.
-  - test
-- In the same way HTML was created by scientists in the 1980s to standardize how web servers display content to users,
+  - Think: as the internet is integrated with everything from rockets to refrigerators, the web now extends far beyond just your computer monitor. How can we make all of these devices communicate with one another in harmony?
+- In the same way HTML was created by scientists in the 1980s to standardize how web servers display content to users, HSML (HyperSpace Modeling Language) seeks to be the common standard through which all devices -- from smart glasses to self-driving cars -- send and receive information to one another.
+  - **Read more:** https://www.amazon.com/Spatial-Web-connect-machines-transform/dp/0578562960 (we have a free copy in the lab!)
+
+#### Why are we using HSML?
+- We use HSML to pass information between different simulation platforms -- Unity, Unreal, and Omniverse -- to enable real-time collaboration between users across all three.
+  - Think of it like a video game: you're in Unity controlling your rover, and I'm in Omniverse controlling my rocket.
+  - This lets us collaboratively simulate, reducing risks of errors (which saves us money, time, and more.)
+- **Fact:** For each pound (in materials, machinery, etc.) sent to the moon, the cost is approximately **$1,000,000 USD**.
+
+#### What are we missing?
+- **Real-time Physics Collaboration:** Currently, objects in Engine A (ex. Unity) cannot collide with objects in Engine B (ex. Omniverse.)
+  - Fix: designate one party in the simulation as the "host." For the duration of the simulation, his/her platform's physics engines will process every collision, and send the relevant outcomes (ex. new positional data after being pushed around) to all other parties' platforms.
+- **AI-powered Automation:** A plugin has to be hand-written to integrate each platform into the HSML approach.
+  - Creating an AI agent that can generate this plugin for you would enable more rapid adoption across the aerospace industry (and further.)
  
 ## HSML API
 ##### *(Credit: Alicia Sanjurjo-Barrio)*
