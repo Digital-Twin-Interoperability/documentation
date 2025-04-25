@@ -22,7 +22,7 @@ This repo serves as a central directory for documentation related to the DT-Inte
 - **`swid_generator/`**: Contains the Python CLI tool used to generate the public & private key pair for the DID:key method.
 
 #### Documentation Guide
-- **BL Plugin & HSML API**: Logic behind the development of the HSML API and the new BL plugins
+- **[BL Plugin & HSML API](https://github.com/Digital-Twin-Interoperability/hsml_schema/blob/main/docs/BL%20Plugin%20%26%20HSML%20API.docx)**: Logic behind the development of the HSML API and the new BL plugins
 - **HSML Schema Doc**: HSML ontology, HSML Classes Tables with the properties from Schema.org & custom properties.
 - **Schema Properties.xlsx**: Excel linked to HSML Schema Doc, used to track better the added properties before including them in the doc.
 - **HSML Summary**: Brief summary of HSML Schema
