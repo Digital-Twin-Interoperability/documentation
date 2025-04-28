@@ -61,4 +61,4 @@ See README here: https://github.com/Digital-Twin-Interoperability/HSML-Form-Webs
 
 ## Business Logic Plugin Scripts
 
-![Script Breakdown](https://github.com/Digital-Twin-Interoperability/documentation/blob/main/scriptBreakdown.jpg?raw=true)
+![Script Breakdown](https://github.com/Digital-Twin-Interoperability/documentation/blob/main/scriptBreakdown.jpg "Script Breakdown")
