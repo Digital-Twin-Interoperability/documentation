@@ -52,3 +52,11 @@ This repo serves as a central directory for documentation related to the DT-Inte
 - **[Verification Codes Doc](https://github.com/Digital-Twin-Interoperability/hsml_schema/blob/main/docs/Verification%20Codes%20Doc.docx)**: Explains initial development and code of the 3 routers of the HSML API (registration, authentication, authorization)
 - **[Feedback Channel](https://github.com/Digital-Twin-Interoperability/hsml_schema/blob/main/docs/Feedback%20Channel.docx)**: Channel & Activities next steps to implement them.
 - **[How to Update HSML Schema](https://github.com/Digital-Twin-Interoperability/hsml_schema/blob/main/docs/How%20to%20Update%20HSML%20Schema.docx)**: Explains how to add new custom properties to the hsml.jsonld and document it well along the way.
+
+## HSML Web App
+
+See README here: https://github.com/Digital-Twin-Interoperability/HSML-Form-Website/blob/main/README.md
+
+**Note:** the ``rework`` branch is most up-to-date.
+
+## Business Logic Plugin Scripts
