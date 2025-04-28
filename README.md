@@ -60,3 +60,5 @@ See README here: https://github.com/Digital-Twin-Interoperability/HSML-Form-Webs
 **Note:** the ``rework`` branch is most up-to-date.
 
 ## Business Logic Plugin Scripts
+
+![Script Breakdown](https://github.com/Digital-Twin-Interoperability/documentation/blob/main/scriptBreakdown.jpg?raw=true)
