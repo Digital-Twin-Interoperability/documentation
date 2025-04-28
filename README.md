@@ -62,3 +62,8 @@ See README here: https://github.com/Digital-Twin-Interoperability/HSML-Form-Webs
 ## Business Logic Plugin Scripts
 
 ![Script Breakdown](https://github.com/Digital-Twin-Interoperability/documentation/blob/main/scriptBreakdown.jpg "Script Breakdown")
+
+**Consumer:** This file takes the input from the Kafka server, and saves it to a JSON on our local hard drive.
+**Producer:** This file takes the locally saved JSON, changes it if necessary (currently only changes if positional data changes,) and then sends the JSON to the Kafka server on the relevant topic.
+
+**Demo Scripts:** https://github.com/Digital-Twin-Interoperability/hsml_schema/tree/main/scripts/demoRegisteredEntities
