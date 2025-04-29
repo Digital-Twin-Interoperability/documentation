@@ -6,6 +6,7 @@ This repo serves as a central directory for documentation related to the DT-Inte
 
 - **Unreal:** Unreal environment is corrupted. Attempted a full reinstall with no success.
 - **Omniverse:** Movement in Cadre in Omniverse is not replicated across platforms. Believed to be an issue with the movement script of Omniverse, not the API or producer/consumer scripts (tested.) Highlight the chassis in Omniverse and see it is disconnected from Cadre's visible model.
+- **Feedback Channel:** See *'Feedback Channel' under HSML API for more.
 
 ## FAQ
 
